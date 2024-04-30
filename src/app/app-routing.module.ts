@@ -5,7 +5,7 @@ import { LoginComponent } from './auth/login/login.component';
 import { RegisterComponent } from './auth/register/register.component';
 import { ProgressComponent } from './pages/progress/progress.component';
 import { Graphic1Component } from './pages/graphic-1/graphic-1.component';
-import { NotpagefoundComponent } from './pages/notpagefound/notpagefound.component';
+import { NotpagefoundComponent } from './notpagefound/notpagefound.component';
 import { PagesComponent } from './pages/pages.component';
 
 const routes: Routes = [
